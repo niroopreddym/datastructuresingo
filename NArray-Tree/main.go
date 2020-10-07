@@ -112,5 +112,5 @@ func main() {
 	NodeLevel1.hasChildren = true
 	NodeLevel1.next = []*Node{NodeLevel5, NodeLevel6, nodeLevel4}
 
-	NArrayTraversal(NodeLevel1)
+	NArrayTraversal(NodeLevel6)
 }
